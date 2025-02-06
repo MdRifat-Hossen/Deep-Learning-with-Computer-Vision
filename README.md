@@ -11,3 +11,5 @@ Brief description of the project, its goals, and its significance.
 - [Contributing](#contributing)
 - [License](#license)
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
